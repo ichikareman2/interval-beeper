@@ -23,10 +23,6 @@ state = setInterval(state);
 state = start(state);
 ```
 
-## About a the author:
+## About the author:
 
-I'm a noob trying to learn. Let's not talk unless its about a not very harsh criticism.
-
-
-
-
+I'm a noob trying to learn. Let's not talk unless its about a not very harsh criticism. Or a job. Or the good kind of free.
