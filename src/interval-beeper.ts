@@ -2,8 +2,11 @@
  * Model of interval beeper state
  */
 export interface IntervalBeeper {
+  /** indicator whether interval has started */
   beepStarted: boolean;
+  /** timestamp when the interval started */
   timeStarted?: number;
+  /** milliseconds between every beep */
   intervalMilliseconds: number; 
 }
 /**

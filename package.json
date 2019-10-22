@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc",
     "test": "jest --coverage",
+    "install": "npm run build",
     "prepare": "npm run test && npm run build"
   },
   "author": "kevin quing",
